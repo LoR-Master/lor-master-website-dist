@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunklor_master_website"]=self["webpackChunklor_master_website"]||[]).push([[443],{7483:function(e,r,t){t.r(r),t.d(r,{default:function(){return b}});var n=t(6252),s={class:"about"},a=(0,n._)("h1",null,"This is an about page",-1),u=[a];function i(e,r){return(0,n.wg)(),(0,n.iD)("div",s,u)}var c=t(3744);const l={},o=(0,c.Z)(l,[["render",i]]);var b=o}}]);
+//# sourceMappingURL=about-legacy.e574b7c2.js.map
